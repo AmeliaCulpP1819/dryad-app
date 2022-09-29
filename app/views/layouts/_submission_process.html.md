@@ -1,7 +1,7 @@
 <h1>Submission and Publication Process</h1>
 
 <p>
-    Data publishing includes describing and organizing your data in a way that makes it accessible and reusable to
+    TESTINGData publishing includes describing and organizing your data in a way that makes it accessible and reusable to
     researchers. For an overview see our <a href="/docs/QuickstartGuideToDataSharing.pdf">Quick Start to Data Sharing</a>.
     Dryad’s process is outlined here, including links to our <a href="/stash/faq">Frequently Asked Questions</a> with
     information on particular topics and <a href="/stash/best_practices">recommendations for good data practices</a>. If
